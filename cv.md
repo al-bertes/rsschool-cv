@@ -11,9 +11,11 @@ ___
 #### Experience 
 [Hexlet](https://t.me/artbertes), html academy(intensive)
 ___
+
 #### Education
 Khabarovsk Industrial and Economics College 2011-2015 (bilder)
 ___
+
 ##### Additional information
 English level: A2
 another experience: builder, carpenter 6 years
