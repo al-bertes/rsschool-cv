@@ -2,9 +2,9 @@
 __beginner fronted developer__
 
 ___
-_26 age Russia, Khabarovsk 
+_26 age, Russia, Khabarovsk_
 art.bertes@gmail.com   
-[telegram](https://ru.hexlet.io/)_
+[telegram](https://ru.hexlet.io/)
 
 ___
 
@@ -15,6 +15,6 @@ ___
 Khabarovsk Industrial and Economics College 2011-2015 (bilder)
 ___
 ##### Additional information
-  English level: A2
-  another experience: builder, carpenter 6 years.
-  Hobbies: sports, fishing, watch good movie.
+English level: A2
+another experience: builder, carpenter 6 years
+Hobbies: sports, fishing, watch good movie
